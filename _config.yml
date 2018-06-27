@@ -8,8 +8,8 @@ language: 'en-uk'
 baseurl: /
 
 # Website info
-title: convictional
-description: B2B integration platform for suppliers
+title: Convictional
+description: B2B Integration Platform
 cover: assets/images/blog-cover.jpg
 logo: assets/images/logo-small.png
 logo_dark: assets/images/logo-small.png
