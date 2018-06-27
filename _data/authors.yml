@@ -6,3 +6,11 @@ roger:
   bio: Co-founder & CEO
   picture: assets/images/rogerkirkness.jpg
   cover: False
+chris:
+  username: chris
+  name: Chris Grouchy
+  url_full: https://convictional.com/about
+  url: convictional.com/about
+  bio: Co-founder & COO
+  picture: assets/images/chrisgrouchy.jpg
+  cover: False
