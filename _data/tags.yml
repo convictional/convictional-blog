@@ -2,3 +2,7 @@ edi:
   name: EDI
   description: Stands for electronic data interchange
   cover: False
+dropship:
+  name: Drop ship
+  description: Drop shipping related content
+  cover: False
