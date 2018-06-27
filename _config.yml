@@ -66,8 +66,8 @@ lsi: False
 username: convictional
 repo: convictional-blog
 branch: master
-relative_source: ../_site/
-destination: ../_site/
+relative_source: _site/
+destination: _site/
 production_url: https://blog.convictional.com
 source_url: https://blog.convictional.com
 
