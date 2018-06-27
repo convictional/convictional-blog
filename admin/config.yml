@@ -19,3 +19,4 @@ collections:
       - {label: "Tags", name: "tags", widget: }
       - {label: "Class", name: "class", widget: "hidden", default: "post-template"}
       - {label: "Author", name: "author", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
