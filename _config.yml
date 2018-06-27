@@ -8,12 +8,12 @@ language: 'en-uk'
 baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: convictional
+description: B2B integration platform for suppliers
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo: assets/images/logo-small.png
+logo_dark: assets/images/logo-small.png
+favicon: assets/images/logo-small.png
 production_url: https://blog.convictional.com
 source_url: https://blog.convictional.com
 
