@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/pricelists.png
+cover: /assets/images/pricelist.png
 navigation: true
 title: Announcing Price Lists
 date: 2017-12-04T09:00:00.000Z
