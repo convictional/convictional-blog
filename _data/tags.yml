@@ -6,3 +6,7 @@ dropship:
   name: Drop ship
   description: Drop shipping related content
   cover: False
+integration:
+  name: Integration
+  description: Any and all B2B integration
+  cover: False
