@@ -1,13 +1,8 @@
-# Jekyll configuration
 markdown: kramdown
 highlighter: rouge
-paginate: 100 # it will paginate after this number
+paginate: 10
 language: 'en-uk'
-
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
-
-# Website info
 title: Convictional Blog
 description: Convictional Blog
 cover: assets/images/melanie-magdalena-340093-unsplash.jpg
@@ -16,36 +11,13 @@ logo_dark: assets/images/logo-small.png
 favicon: assets/images/logo-small.png
 production_url: https://blog.convictional.com
 source_url: https://blog.convictional.com
-
-# Social info
-navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
-# if 'True' the submit button is disabled for now, but you can change that
-# by editing `_includes/subscribe-form.html`
-twitter: # replace by your username
-facebook: # replace by your username
-
-# Disqus
-disqus: False
-disqus_shortname: jekyller # replace with your disqus username
-
-# Google Analytics
+navigation: True
+subscribers: True
 google_analytics: UA-109651638-1 # replace with your GA tracking identifier
-
-# Permalinks
 permalink: /:title
 plugins: [jekyll-paginate, jekyll-feed]
-
 feed:
   path: feed.xml
-
-# Settings for deploy rake task
-# Username and repo of Github repo, e.g.
-# https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
-# repo defaults to USERNAME.github.io
-# Branch defaults to "source" for USERNAME.github.io
-# or "master" otherwise
 safe: False
 lsi: False
 username: convictional
@@ -55,7 +27,6 @@ relative_source: _site/
 destination: _site/
 production_url: https://blog.convictional.com
 source_url: https://blog.convictional.com
-
 exclude:
   - assets/css
   - node_modules
