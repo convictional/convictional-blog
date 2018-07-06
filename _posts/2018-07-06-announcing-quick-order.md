@@ -20,4 +20,4 @@ Now, all orders sent by your customer through email (Quick Order) will be automa
 
 ![QuickOrder](https://blog.convictional.com/assets/images/quickorder.png)
 
-If you want to learn more about Quick Order as a current customer, [check out the help documentation so you can get started automating your inbound email orders.](https://help.convictional.com/quick-ordering/) If you think Quick Order might have an application in your business and we aren't partnered yet, [contact sales.](https://blog.convictional.com/contact)
+If you want to learn more about Quick Order as a current customer, [check out the help documentation so you can get started automating your email orders.](https://help.convictional.com/quick-ordering/) If you think Quick Order might have an application in your business and we aren't partnered yet, [contact sales.](https://blog.convictional.com/contact)
