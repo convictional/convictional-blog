@@ -31,13 +31,8 @@ into the {body} of the default.hbs template -->
     <div class="inner">
 
         <div class="post-feed">
-            <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-            <script>
-              hbspt.forms.create({
-                portalId: "4004130",
-                formId: "6147ae67-7a8b-4cac-addf-b7e75ce7c534"
-            });
-            </script>
+            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+            {%  include post-card.html %}
         </div>
 
     </div>
