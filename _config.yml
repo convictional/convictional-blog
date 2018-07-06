@@ -2,6 +2,7 @@ markdown: kramdown
 highlighter: rouge
 paginate: 10
 language: 'en-uk'
+url: "https://blog.convictional.com"
 baseurl: /
 title: Convictional Blog
 description: Convictional Blog
@@ -15,7 +16,7 @@ navigation: True
 subscribers: True
 google_analytics: UA-109651638-1 # replace with your GA tracking identifier
 permalink: /:title
-plugins: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
 feed:
   path: feed.xml
   url: https://blog.convictional.com
