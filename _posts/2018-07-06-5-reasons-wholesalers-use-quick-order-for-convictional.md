@@ -7,7 +7,7 @@ title: 5 Reasons Wholesalers Use Quick Order for Convictional
 date: '2018-07-06T18:53:44-04:00'
 tags: 'Integration, Wholesale'
 class: post-template
-author: chris
+author: ' chris'
 ---
 Today, we launched [Quick Order for Convictional](https://blog.convictional.com/announcing-quick-order) — an integrated order experience for suppliers that enables their trading partners (retailers/buyers) to place wholesale orders by email. Quick Order is another application of Convictional’s platform, and we’re excited to bring it to our customers. 
 
