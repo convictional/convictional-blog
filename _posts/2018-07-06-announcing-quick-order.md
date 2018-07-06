@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/quickorder.png
+cover: /assets/images/quickorderhero.png
 navigation: true
 title: Announcing Quick Ordering for Convictional
 date: 2018-07-06T09:00:00.000Z
@@ -16,6 +16,8 @@ Today, we're launching yet another addition to the Convictional B2B integration 
 
 Receiving email orders can be a pain if you have to key them into your system by hand. This is usually the case for email orders. So we created an easier way for your customers to order that avoids rekeying for you and doesn't make life any more difficult for your customer (they benefit from instant confirmation, and not having to log into a portal and sift through a catalogue). 
 
-Now, all orders sent by your customer through email (Quick Order) will be automatically entered into your system. If you currently do most of your wholesale through phone, a portal, or email, consider how Quick Order would make it even easier for you customers to purchase from you — and how it will save you time moving forward. 
+Now, all orders sent by your customer through email (Quick Order) will be automatically entered into your system. If you currently do most of your wholesale through phone, a portal, or email, consider how Quick Order would make it even easier for you customers to purchase from you — and how it will save you time moving forward. Here is an example:
+
+![QuickOrder](https://blog.convictional.com/assets/images/quickorder.png)
 
 If you want to learn more about Quick Order as a current customer, [check out the help documentation so you can get started automating your inbound email orders.](https://help.convictional.com/quick-ordering/) If you think Quick Order might have an application in your business and we aren't partnered yet, [contact sales.](https://blog.convictional.com/contact)
