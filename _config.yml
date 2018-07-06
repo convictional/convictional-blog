@@ -2,7 +2,7 @@ markdown: kramdown
 highlighter: rouge
 paginate: 10
 language: 'en-uk'
-baseurl: /
+baseurl: https://blog.convictional.com/
 title: Convictional Blog
 description: Convictional Blog
 cover: assets/images/melanie-magdalena-340093-unsplash.jpg
