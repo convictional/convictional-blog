@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/quickorderhero.png
+cover: /assets/images/quickorderhero.jpg
 navigation: true
 title: Announcing Quick Ordering for Convictional
 date: 2018-07-06T09:00:00.000Z
