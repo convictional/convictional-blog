@@ -10,3 +10,11 @@ integration:
   name: Integration
   description: Any and all B2B integration
   cover: False
+wholesale:
+  name: Wholesale
+  description: Relating to wholesale
+  cover: false
+b2b:
+  name: B2B
+  description: Relating specifically to B2B or business-to-business
+  cover: false
