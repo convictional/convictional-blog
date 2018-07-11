@@ -5,7 +5,7 @@ cover: /assets/images/berkay-gumustekin-412156-unsplash.jpg
 navigation: 'True'
 title: >-
   Convictional among Canadian ecommerce technology companies having a global
-  impact (The Globe and Mail)
+  impact
 date: '2018-07-11T18:20:24-04:00'
 tags: Press
 class: post-template
