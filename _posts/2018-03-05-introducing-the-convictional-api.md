@@ -19,11 +19,11 @@ Almost everything you can do in the Convictional admin can now also be done via 
 
 Everyone who is a Convictional customer has an API key that is associated with the data for your business. You can use that API key to authenticate yourself and securely access your information in our service. To find it, login and go to “Settings”. It will be listed there by your company ID.
 
-Here is the documentation for our API: <a href="http://docs.convictional.com">http://docs.convictional.com</a>. We will share more soon on how to use the API to make it easier to sync with your trading partners from systems that we don’t support yet.
+Here is [the documentation for our API](http://docs.convictional.com). We will share more soon on how to use the API to make it easier to sync with your trading partners from systems that we don’t support yet.
 
 To make things easier for developers, we are also launching a client library for Node.JS. JavaScript has become increasingly popular among experience and new developers and our client library makes it easier to write applications without having to learn how our API syntax works. Further it allows you to make bulk calls of any size without worrying about queuing.
 
-Here is a link to the client library for Node.JS: <a href="https://www.npmjs.com/package/convictional">https://www.npmjs.com/package/convictional</a>. We plan on adding additional client libraries in the coming years to support developers that use other frameworks and languages to build your systems.
+Here is a link to [the client library for Node.JS](https://www.npmjs.com/package/convictional). We plan on adding additional client libraries in the coming years to support developers that use other frameworks and languages to build your systems.
 
 A big part of making it easier for B2B companies to sell online is making it easier for B2B companies to integrate new technology (ecommerce platforms, APIs) with existing technology (on-premise ERP systems, EDI). This is a big step in that direction.
 

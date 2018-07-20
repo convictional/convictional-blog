@@ -10,8 +10,7 @@ tags:
 class: post-template
 author: roger
 ---
-
-When suppliers and retailers agree to establish a business relationship, you will inevitably hear something along the lines of “send me your EDI requirements document”. 
+When suppliers and retailers agree to establish a business relationship, you will inevitably hear something along the lines of “send me your EDI requirements document”.
 
 Everyone starts somewhere, and typically before you even have a sense of what your EDI requirements actually are, it can be hard to share technical documentation about them.
 
@@ -20,8 +19,8 @@ What people are really asking for is a document that outlines the unique require
 EDI can be about preference, which creates complexity. So, an EDI requirements document is a way to clarify those preferences at the beginning of the relationship so you and your trading partner(s) can get things in order. An EDI requirements document would typically contain information about the following:
 
 * How do you want to receive inbound documents? Which tech is used?
-* In what ways are you capable of sending documents? Which tech is used? Which is preferred? 
-* What documents do you require? What documents are optional? 
+* In what ways are you capable of sending documents? Which tech is used? Which is preferred?
+* What documents do you require? What documents are optional?
 * Do you have any custom mapping requirements?
 * What is the format of the documents? Is it North American standard (X12), European (EDIFACT) or somewhere else (ERP, region or industry specific?)
 * What is the procedure for testing to make sure things are working?
@@ -30,7 +29,7 @@ EDI can be about preference, which creates complexity. So, an EDI requirements d
 * Do I have an option of connecting directly or using a service provider?
 * Anything else that will affect our ability to integrate with each other?
 
-The document would typically answer the above questions. 
+The document would typically answer the above questions.
 
 Basically, to integrate with your trading partner, you need a good sense of the scope, tech, information, and the procedures involved. Without this, there is no consistent way to make sure you can integrate with your partner without an excessive amount of back and forth. Standardizing the approach to the extent possible will make it easier to manage bringing many trading partners on board.
 
