@@ -14,7 +14,7 @@ Identifying your core customer is counterintuitively difficult. You would think 
 
 At Convictional, we’ve spent a considerable amount of time thinking about our customer and the barriers they face to growing their businesses. This is what we've learned so far about why you should find and obsess over just one customer.
 
-## Convictional's one customer
+# Convictional's one customer
 
 Wholesalers are Convictional’s customers — not retailers or consumers. Wholesalers.  
 That’s why we obsess over the wholesaler’s experience. At a fundamental level, they exist to sell their products to other businesses, typically retailers who source products from them.

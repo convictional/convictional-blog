@@ -15,7 +15,7 @@ Convictional is a B2B commerce integration platform. Wholesalers who drop ship c
 
 Many of Convictional's customers use Shopify as their ecommerce platform. And some even offer a way to "blind drop ship" on behalf of their retail trading partners. In this post, we explain the simple concept of blind drop shipping, why you should do it (if you are a wholesaler or a retailer who drop ships), and how to do it on Shopify.
 
-## What Blind Drop Shipping Is
+# What Blind Drop Shipping Is
 
 Blind drop shipping happens when the shopper receives the order and thinks it came from the retailer. In other words, the wholesaler ships the order with no evidence that the item came from them. Instead, the order has the branding and information of the retailer that made the sale. While this seems ideal, depending on your current supply chain processes, it may be challenging to set up.
 

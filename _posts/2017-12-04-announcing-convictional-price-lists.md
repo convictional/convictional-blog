@@ -19,4 +19,4 @@ Convictional Price Lists allow you to set a base price markup for individual it
 
 Since the majority of Convictional customers already have a base wholesale price, which is then marked up either by a dollar amount or a percentage amount depending on the product, Convictional will pull in your existing base price and perform the markup calculations on that.
 
-All our existing and future customers get access to Price Lists as part of their subscription. We can't wait to see all the ways our customers apply price lists to improve your trading partner relationships and launch new markets. <a href="mailto:feedback@convictional.com" target="_blank" rel="noopener noreferrer">Let us know what you think</a>.
+All our existing and future customers get access to Price Lists as part of their subscription. We can't wait to see all the ways our customers apply price lists to improve your trading partner relationships and launch new markets.

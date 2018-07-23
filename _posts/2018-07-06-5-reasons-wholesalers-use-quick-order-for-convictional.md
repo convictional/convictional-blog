@@ -19,7 +19,7 @@ Quick Order is an application of Convictional’s platform. It intelligently par
 
 Quick Order has numerous benefits to wholesalers and their customers. Here are five reasons why our customers love Quick Order and why we think you will, too:
 
-## 1. Let your trading partners use the tools that are easiest for them
+# 1. Let your trading partners use the tools that are easiest for them
 
 Wholesalers can develop a competitive advantage by making it dead-simple for their trading partners to send them orders however the partner prefers to buy. All too often wholesalers will force the trading partner to order through a B2B portal. Is a portal really the optimal way for your trading partners to buy from you?
 
