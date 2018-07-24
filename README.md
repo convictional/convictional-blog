@@ -13,3 +13,4 @@ The configuration file is `_config.yml` which describes a Jekyll service running
 * Posting the problem with portals.
 * Posting article about Globe & Mail feature.
 * Cleaning up the various posts to valid markdown.
+* Added a unique Google Analytics ID.
