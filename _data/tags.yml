@@ -18,3 +18,7 @@ b2b:
   name: B2B
   description: Relating specifically to B2B or business-to-business
   cover: false
+q&a:
+  name: Q&A
+  description: Questions and Answers relating to B2B
+  cover: false
