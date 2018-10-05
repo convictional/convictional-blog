@@ -25,4 +25,4 @@ Convictional’s deeply held belief is that by making it seamless for suppliers 
 
 One billion API calls represents a sign that we are aiming in the right direction. 
 
-We’re just getting started. Or, as Roger likes to say, “Back to work.”
+We’re just getting started. As Roger likes to say, “Back to work.”
