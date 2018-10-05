@@ -5,7 +5,7 @@ cover: /assets/images/convictional-api.jpg
 navigation: 'True'
 title: One Billion API Calls
 date: '2018-10-05T11:41:20-04:00'
-tags: 'announcements, B2B graph, EDI, Electronic Data Interchange'
+tags: Electronic Data Interchange
 class: post-template
 author: chris
 ---
