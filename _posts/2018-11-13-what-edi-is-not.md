@@ -5,7 +5,7 @@ cover: /assets/images/desk.jpg
 navigation: 'True'
 title: What EDI Is Not
 date: '2018-11-13T12:43:40-04:00'
-tags: Press
+tags: EDI
 class: post-template
 author: roger
 ---
