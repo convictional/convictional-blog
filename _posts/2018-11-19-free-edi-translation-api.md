@@ -4,7 +4,7 @@ current: post
 cover: /assets/images/translate-api.png
 navigation: 'True'
 title: Free EDI Translation API
-date: '2018-11-19T12:00:00-04:00'
+date: '2018-11-19T01:00:00-05:00'
 tags: EDI
 class: post-template
 author: roger
