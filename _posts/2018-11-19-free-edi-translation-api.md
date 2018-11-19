@@ -9,7 +9,7 @@ tags: EDI
 class: post-template
 author: roger
 ---
-As a software developer, you may be asked at some point to translate an EDI document into another format. The challenge is that EDI document translation is often done by proprietary software installed on your computer in a way that is totally opaque to the user. Most EDI users don’t actually translate the documents themselves, their system just comes with those abilities. When we started Convictional, we wondered why an API didn’t exist to help provide this service, the way other APIs provide functionality too complex or specific to justify building in-house.
+As a software developer, you may be asked at some point to translate an EDI document into another format. The challenge is that EDI document translation is often done by proprietary software installed on your computer in a way that is totally opaque to the user. Most EDI users don’t translate the documents themselves, their system just comes with those abilities. When we started Convictional, we wondered why an API didn’t exist to help provide this service, the way other APIs provide functionality too complex or specific to justify building in-house.
 
 Today, we’re releasing our EDI translation API for free. Our goal is to make EDI more accessible to modern companies: basically, to make it easier to use for technical users and non-technical ones. When we think about the different things we have done that saved us time working with customers, one of the most useful things we did was to build our own EDI translation engine. We wrote it in a generic way, so you still need to know a little bit about the documents you’re working with. But it saves the developer from headaches like formatting and parsing.
 
