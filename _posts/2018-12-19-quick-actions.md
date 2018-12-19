@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/quick-actions.jpg
+cover: /assets/images/quick-actions.png
 navigation: 'True'
 title: Get Things Done Faster
 date: '2018-12-12T12:00:00-04:00'
