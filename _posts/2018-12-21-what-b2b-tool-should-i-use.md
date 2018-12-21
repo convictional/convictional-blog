@@ -4,7 +4,7 @@ current: post
 cover: /assets/images/lady-with-phone.jpg
 navigation: 'True'
 title: What B2B Tool Should I Use?
-date: '2018-12-20T12:00:00-04:00'
+date: '2018-12-21T13:00:00-04:00'
 tags: B2B
 class: post-template
 author: roger
