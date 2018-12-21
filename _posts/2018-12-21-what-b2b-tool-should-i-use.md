@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: https://s3-us-west-1.amazonaws.com/tryinteract-uploads/5914e669b15f610011a5d9e7/_c8276290-3699-11e7-acf4-41201c6d1b1b.jpg
+cover: /assets/images/lady-with-phone.jpg
 navigation: 'True'
 title: What B2B Tool Should I Use?
 date: '2018-12-20T12:00:00-04:00'
