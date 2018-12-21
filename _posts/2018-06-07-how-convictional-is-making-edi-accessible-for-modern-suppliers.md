@@ -5,8 +5,7 @@ cover: /assets/images/ediblog.png
 navigation: true
 title: How Convictional Is Making EDI Accessible for Modern Suppliers
 date: 2018-06-07T09:00:00.000Z
-tags:
-  - edi
+tags: EDI
 class: post-template
 author: roger
 ---

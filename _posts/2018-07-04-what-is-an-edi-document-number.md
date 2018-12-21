@@ -5,8 +5,7 @@ cover: /assets/images/edi.jpg
 navigation: true
 title: What Is An EDI Document Number?
 date: 2018-07-04T09:00:00.000Z
-tags:
-  - edi
+tags: EDI
 class: post-template
 author: roger
 ---
