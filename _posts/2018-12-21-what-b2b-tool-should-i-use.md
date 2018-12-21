@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/lady-with-phone.jpg
+cover: /assets/images/desk.jpg
 navigation: 'True'
 title: What B2B Tool Should I Use?
 date: '2018-12-20T12:00:00-04:00'
