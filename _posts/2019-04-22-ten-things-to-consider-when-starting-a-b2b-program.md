@@ -63,11 +63,14 @@ The last step tends to be the simplest, but it can create headaches if it implic
 
 Some buyers want to use email or the phone. While ubiquitous, this means manual work on both sides of the transaction. It’s the default fall back for early B2B relationships, but once you get things up and running it’s not a great long-term solution unless you want your sales team constantly burdened by order entry. That said, we have never seen a company completely avoid it, so you will need a process in place for handling orders that come in through manual means.
 
-More sophisticated buyers will try to automate either their side of the transaction, your side or ideally both. Historically this has been done with a technology called EDI. EDI is a pre-internet way of sharing business documents with a trading partner. 
+
+## Automated approaches today
+
+More sophisticated buyers will try to automate either their side of the transaction, your side or ideally both. Historically this has been done with a technology called EDI. EDI is a pre-internet way of sharing business documents with a trading partner.
 
 While it sounds great in theory (automation for both sides), it can take a really long time to get connected in practice. It extends the last step we talked about (onboarding) by months. That said, some companies (especially large brick & mortar retailers) tend to prefer it still as the tool they use for purchasing. If you want to sell to them, you’ll need some kind of way to do it, and doing it in an automated way is often preferred to having to re-key it into your systems.
 
-The modern approach has been to try and move as much of these two groups (manual or EDI buyers) over to an online portal. The problems with this approach have been discussed, here and elsewhere. In summary, neither group has a strong incentive to cooperate. To make things automated on your side requires an approach that allows for people to order the way they do with all their other customers, without compromising on how automated or accurate things are on your side. That’s what we’re trying to do here.
+The modern approach has been to try and move as much of these two groups (manual or EDI buyers) over to an online portal. The problems with this approach have been discussed [here](https://blog.convictional.com/the-problem-with-portals) and elsewhere. In summary, neither group has a strong incentive to cooperate. To make things automated on your side requires an approach that allows for people to order the way they do with all their other customers, without compromising on how automated or accurate things are on your side. That’s what we’re trying to do here.
 
 ## Conclusion
 
