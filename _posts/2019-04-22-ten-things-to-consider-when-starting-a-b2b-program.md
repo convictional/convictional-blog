@@ -11,7 +11,7 @@ author: roger
 ---
 ## Introduction
 
-Some call it a trade program, others call it B2B. Maybe you call it wholesale. For many direct to consumer brands or manufacturers, there can be a lot involved when you decide to start handling B2B sales yourself. In the case of D2C brands, you’re probably used to making sure that consumers have an easy, consistent way to order from you and that you have a 3PL that knows how to handle one off orders, break cases and ship as fast as possible. If you’re a manufacturer, you may be used to skipping truck loads of product down the street to a distributor. In both cases, there is a lot to consider before you start offering direct B2B ordering.
+Some call it a trade program, others call it B2B. Maybe you call it wholesale. For many direct to consumer brands or manufacturers, there can be a lot involved when you decide to start handling B2B sales yourself. In the case of D2C brands, you’re probably used to making sure that consumers have an easy, consistent way to order from you and that you have a 3PL that knows how to handle one off orders, break cases and ship as fast as possible. If you’re a manufacturer, you may be used to skipping truck loads of product down the street to a distributor. In both cases, there is a lot to consider before you start offering direct B2B.
 
 ## Things to consider before you start
 
