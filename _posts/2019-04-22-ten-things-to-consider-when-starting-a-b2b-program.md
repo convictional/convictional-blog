@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/tech-meeting.jpeg
+cover: /assets/images/tech-meeting.jpg
 navigation: 'True'
 title: 10 Things To Consider When Starting a B2B Program
 date: '2019-04-22T00:00:00-00:00'
