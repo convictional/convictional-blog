@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/y_combinator_convictional.jpeg
+cover: /assets/images/tech-meeting.jpeg
 navigation: 'True'
 title: 10 Things To Consider When Starting a B2B Program
 date: '2019-04-22T00:00:00-00:00'
@@ -24,7 +24,7 @@ There is a lot to consider before you start your B2B program. Here is a list tha
 * Will you sell into major retail? Distributors? Brick & mortar stores? Online stores?
 * How will you get paid? What happens if you ship and don’t get paid?
 * Will you offer your entire product mix? What about larger pack sizes (ie. cases)?
-* What will be in your trade agreement? 
+* What will be in your trade agreement?
 * How will you approach returns, replacements, late shipment fees?
 * What tools will be required? What expertise?
 
