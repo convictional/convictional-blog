@@ -38,7 +38,7 @@ Once you have personas, you can start to develop a strategy for how you will bot
 
 ## Onboarding new customers
 
-Once you have some interested customers, there is an important and often forgotten step we call onboarding. Unlike direct to consumer sales, where your customers can complete a transaction without ever having talked to you, or manufacturing sales, where you know the handful of companies most likely to act as your distributor from day one, wholesale requires onboarding your customer. 
+Once you have some interested customers, there is an important and often forgotten step we call onboarding. Unlike direct to consumer sales, where your customers can complete a transaction without ever having talked to you, or manufacturing sales, where you know the handful of companies most likely to act as your distributor from day one, wholesale requires onboarding your customer.
 
 Onboarding is all of the steps involved in between when someone expresses interest and when they actually place their first (and second) orders with you. This could include:
 
@@ -55,14 +55,13 @@ Onboarding is all of the steps involved in between when someone expresses intere
 
 A lot goes into those things, so it’s best to have an approach or system in place that can do as much of them as possible. It’s not too hard to go through those steps with a handful of people who have come inbound to you and expressed strong interest. But once that source of leads gets onboarded, a lot of the time it’s about convincing people to buy directly from you. That is hard enough without having to go through the motions of everything described above.
 
-Onboarding is the piece we see people most often get wrong when it comes to wholesale. There’s a process in place for receiving orders from customers that *already know how to order and have before*. There’s a process for getting new customers. But the part in the middle is highly manual, and the drop off rate is pretty high. Very expensively high if you consider the cost to acquire a B2B customer, and the potential lifetime value of that customer. 
+Onboarding is the piece we see people most often get wrong when it comes to wholesale. There’s a process in place for receiving orders from customers that *already know how to order and have before*. There’s a process for getting new customers. But the part in the middle is highly manual, and the drop off rate is pretty high. Very expensively high if you consider the cost to acquire a B2B customer, and the potential lifetime value of that customer.
 
 ## Receiving orders and ongoing
 
 The last step tends to be the simplest, but it can create headaches if it implicates a lot of manual work on your part as a supplier. Receiving orders is different in B2B, because B2B buyers tend to have established processes in place for purchasing. While consumers tend to follow similar patterns, B2B buyers vary significantly in terms of what tools they use for purchasing.
 
 Some buyers want to use email or the phone. While ubiquitous, this means manual work on both sides of the transaction. It’s the default fall back for early B2B relationships, but once you get things up and running it’s not a great long-term solution unless you want your sales team constantly burdened by order entry. That said, we have never seen a company completely avoid it, so you will need a process in place for handling orders that come in through manual means.
-
 
 ## Automated approaches today
 
