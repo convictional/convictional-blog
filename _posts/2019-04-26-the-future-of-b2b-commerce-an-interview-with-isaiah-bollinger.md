@@ -9,19 +9,19 @@ tags: B2B Commerce
 class: post-template
 author: chris
 ---
-**I sat down with Isaiah Bollinger, CEO and co-founder of Trellis, a leading ecommerce agency, to talk about the future of B2B ecommerce. We talk about why it's imperative for suppliers to move their customers to ecommerce, the implications of moving from more traditional forms of B2B ordering, and how to successfully make the move. **
+**I sat down with Isaiah Bollinger, CEO and co-founder of Trellis, a leading ecommerce agency, to talk about the future of B2B ecommerce. We talk about why it's imperative for suppliers to move their customers to ecommerce, the implications of moving from more traditional forms of B2B ordering, and how to successfully make the move.**
 
 Visit [Trellis.co](https://trellis.co/) to learn more about their work.
 
 ![trellis](/assets/images/isaiah.jpeg)
 
-**Chris Grouchy: Thanks for taking the time Isaiah. To kick things off, tell me how you came to start Trellis and what your vision is for the company. **
+**Chris Grouchy: Thanks for taking the time Isaiah. To kick things off, tell me how you came to start Trellis and what your vision is for the company.**
 
 I decided to start Trellis when I was working for a large media company that I felt wasn’t truly helping small businesses with their digital strategy. The small businesses needed help. My vision for Trellis is to be a one-stop-shop for established small and medium sized companies to completely revamp their digital strategy and implement cutting-edge ecommerce programs through our services and products. We are already doing this today, but want to increase the scope and scale of our effectiveness to help more companies and handle more needs within the realm of digital.
 
 
 
-**Many of our readers are CEOs and founders. What’s the biggest lesson you’ve learned as an entrepreneur? **
+**Many of our readers are CEOs and founders. What’s the biggest lesson you’ve learned as an entrepreneur?**
 
 Hiring good people and building a great team is incredibly hard. I was very naive and thought other people would want to work for less than market value to build something but that is very rare to find. It took me about 5 or 6 years to build the foundation of that team, and we are now learning how hard it is to scale the quality of our core team to a much bigger team as well.
 
@@ -33,7 +33,7 @@ I would guess that the average person doesn’t realize that B2B ecommerce is ac
 
 
 
-**Why do you feel that most suppliers aren’t doing B2B commerce well today? **
+**Why do you feel that most suppliers aren’t doing B2B commerce well today?**
 
 There are a few core reasons. The number one reason is that most B2B companies are tied to their ERP systems and have complex pricing and logistical operations as well as massive catalogs. These ERP systems were not designed for ecommerce. Ultimately, they need to have robust ecommerce integration with their ERP system and this is very hard to do, and most integration products on the market only do a portion of what they need to be effective operationally.
 
@@ -41,21 +41,21 @@ The other core reasons are a lack of expertise internally to execute. You can on
 
 
 
-**What shifts are you noticing in the B2B ecommerce landscape from the work you are doing with your clients at Trellis? **
+**What shifts are you noticing in the B2B ecommerce landscape from the work you are doing with your clients at Trellis?**
 
 We are noticing that companies are getting more and more sophisticated internally every year and are coming to us with more robust RFPs and expectations, which is a positive sign. We are also noticing that companies are finally accepting that their ERP systems are not well equipped for ecommerce and they need to focus on strong integrations with their ERP and B2B platforms. We are also noticing that B2B companies are finally embracing more B2C like features and are even considering more investment in a hybrid B2B and B2C ecommerce model.
 
 
 
-**Talk to me about distributors in the context of B2B ecommerce. Why should a VP of Sales of a major distributor care about ecommerce? **
+**Talk to me about distributors in the context of B2B ecommerce. Why should a VP of Sales of a major distributor care about ecommerce?**
 
 Customers want to be able to buy online. If you are selling them on an experience that requires them to call in, you will not be competitive. As a VP of Sales, you should be using ecommerce as a value added sales tool to sell clients on a platform that will allow them to easily buy whatever they want efficiently and at great prices so they don’t have to waste time calling in for orders.
 
 
 
-**In addition to phone orders, we often see buyers using email and fax to wholesale simply because there isn’t an online purchasing option. The sales rep’s time is then allocated to manual order entry and not getting more orders or customers. **
+**In addition to phone orders, we often see buyers using email and fax to wholesale simply because there isn’t an online purchasing option. The sales rep’s time is then allocated to manual order entry and not getting more orders or customers.**
 
-**Where is the low hanging fruit for suppliers when it comes to ecommerce? Is there anything that suppliers can learn about ecommerce learn from their B2C counterparts? **
+**Where is the low hanging fruit for suppliers when it comes to ecommerce? Is there anything that suppliers can learn about ecommerce learn from their B2C counterparts?**
 
 Absolutely. I think B2B companies need to think of themselves as simply complex B2C ecommerce. Ultimately, they are really just personalizing a B2C ecommerce experience for their customers such as unique pricing, payment terms, and maybe catalogs or logistics. Ultimately the same wants and needs apply such as a good user experience, great product data, fast site speed, good search, and other ecommerce best practices that apply to B2C.
 
