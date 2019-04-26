@@ -9,7 +9,7 @@ tags: B2B Commerce
 class: post-template
 author: chris
 ---
-**I sat down with Isaiah Bollinger, CEO and co-founder of **[**Trellis**](https://trellis.co/)**, a leading ecommerce agency, to talk about the future of B2B ecommerce. We talk about why it's imperative for suppliers to move their customers to ecommerce, the implications of moving from more traditional forms of B2B ordering, and how to successfully make the move. **
+**I sat down with Isaiah Bollinger, CEO and co-founder of Trellis, a leading ecommerce agency, to talk about the future of B2B ecommerce. We talk about why it's imperative for suppliers to move their customers to ecommerce, the implications of moving from more traditional forms of B2B ordering, and how to successfully make the move. Visit **[**Trellis.co**](https://trellis.co/)** to learn more about their work.**
 
 ![trellis](/assets/images/isaiah.jpeg)
 
