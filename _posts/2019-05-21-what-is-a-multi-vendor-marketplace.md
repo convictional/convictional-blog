@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/austin-distel-1538966-unsplash.jpg
+cover: /assets/images/multi-vendor-marketplace.jpg
 navigation: 'True'
 title: What is a multi-vendor marketplace?
 date: 2019-05-22T00:39:53.184Z
