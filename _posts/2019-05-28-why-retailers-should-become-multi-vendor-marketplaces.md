@@ -31,6 +31,8 @@ Away, for example, [recently raised](https://techcrunch.com/2019/05/14/away-pack
 
 ![Photo Credit: Away](/assets/images/credit-to-away-1.jpg)
 
+_Photo Credit:_ [_Away_](https://www.awaytravel.com)__
+
 It turns out that selling one kind of product — suitcases — isn’t necessarily enough. 
 
 To be clear, brands like Away and Allbirds aren’t multi-vendor marketplaces themselves. 
@@ -42,8 +44,6 @@ While it would seem ideal to own the manufacturing stack and grow through self-b
 That’s because the formula for ecommerce growth hasn’t changed: 
 
 > **Curated product selection times distribution times lifetime value equals sales growth.**
->
->  
 
 Curated product selection is the coefficient that makes the equation work. 
 
@@ -61,8 +61,6 @@ Since every online retailer is looking for growth and customer loyalty, then the
 
 Here are a few reasons why you should consider becoming a multi-vendor marketplace: 
 
-
-
 **1) Grow alongside your partner ecosystem.**
 
 A partner ecosystem enables you to readily pull products from a collection of trusted vendors. A trusted partner ecosystem also creates a halo effect around your brand. 
@@ -70,8 +68,6 @@ A partner ecosystem enables you to readily pull products from a collection of tr
 Being associated with certain vendors will lend more credibility to your brand. As a partner gains traction, so will your marketplace simply by being associated with them and their products. 
 
 The only way to ride the wave of your partner ecosystem is to own one in the first place. If you don’t have an ecosystem of partners, then you could be missing out on organic growth. 
-
-
 
 **2) Expand your product catalogue and increase your average order value (AOV).**
 
@@ -81,8 +77,6 @@ Depth (vertical product expansion) is inherently more expensive than optimizing 
 
 By increasing your product catalogue, you can provide more opportunities to personalize the path to purchase with upsells and cross sells, leading to a higher average order value (AOV). Plus, you can reap the SEO benefits by having search engines index your site for keywords and meta data contained within product descriptions and images. 
 
-
-
 **3) Own the customer relationship (and their data).**
 
 Rather than handing off the customer to the vendor, you will be able to own the customer relationship directly. Capturing the sale without the hand-off process enables you to remarket the customer in the future in order to increase their customer lifetime value. 
@@ -91,15 +85,11 @@ Having data around the kinds of products that your customers are interested in a
 
 Once you have built out your partner ecosystem and developed your product catalogue, you will want to explore how you can continue the customer relationship and entice them to return. 
 
-
-
 **4) Eliminate inventory risk.**
 
 The goal in transforming your ecommerce business into a multi-vendor marketplace is not to procure inventory on day one. It’s to test product demand by outsourcing everything except for distribution. For an ecommerce business, product curation and distribution are the highest leverage assets. Moving to a dropship model enables you to focus on what you are best at — marketing and selling — by outsourcing and manufacturing and fulfilment.
 
 Vendors (suppliers) are increasingly looking to grow their dropship distribution channels but, in many cases, they don’t know where to start. Offering a turnkey way for them to onboard, integrate, sync, and start selling through your storefront will make you an attractive partner. 
-
-
 
 **5) Online retail is about survival.** 
 
