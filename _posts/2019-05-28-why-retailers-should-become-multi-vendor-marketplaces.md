@@ -31,7 +31,7 @@ Away, for example, [recently raised](https://techcrunch.com/2019/05/14/away-pack
 
 ![Photo Credit: Away](/assets/images/credit-to-away-1.jpg)
 
-_Photo Credit:_ [_Away_](https://www.awaytravel.com)__
+_Photo Credit:_ [_Away_](https://www.awaytravel.com)
 
 It turns out that selling one kind of product — suitcases — isn’t necessarily enough. 
 
