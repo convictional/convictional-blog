@@ -7,7 +7,7 @@ title: What Is Content Commerce?
 date: 2019-06-13T17:22:02.758Z
 tags: marketplaces
 class: post-template
-author: Roger Kirkness
+author: roger
 ---
 What is Content Commerce? 
 
