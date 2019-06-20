@@ -5,7 +5,7 @@ cover: /assets/images/multi-vendor-marketplace.jpg
 navigation: 'True'
 title: What is a multi-vendor marketplace?
 date: 2019-05-22T00:39:53.184Z
-tags: 'Marketplace, B2B'
+tags: 'marketplace, b2b'
 class: post-template
 author: chris
 ---
