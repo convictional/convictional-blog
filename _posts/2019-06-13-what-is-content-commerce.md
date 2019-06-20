@@ -5,7 +5,7 @@ cover: /assets/images/patrick-tomasso-71909-unsplash.jpg
 navigation: 'True'
 title: What Is Content Commerce?
 date: 2019-06-13T17:22:02.758Z
-tags: marketplaces
+tags: marketplace
 class: post-template
 author: chris
 ---
