@@ -16,7 +16,7 @@ collections:
       - {label: "Navigation", name: "navigation", widget: "hidden", default: "True"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Tags", name: "tags", widget: }
+      - {label: "Tags", name: "tags", widget: "string" }
       - {label: "Class", name: "class", widget: "hidden", default: "post-template"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
