@@ -13,4 +13,4 @@ Convictional is proud to add [Brex](https://brex.com/convictional/) as a partner
 
 In partnership with Brex, Convictional customers can receive net 60 terms to improve cash flow and to fund growth initiatives. Convictional customers will also receive a $1,000 sign-up bonus, waived fees for life, a credit limit at 50-100% of their projected monthly sales (up to $5 million), and integrated expense management.
 
-For more information or to sign up, please visit https://brex.com/convictional/.
+For more information or to sign up, please visit [brex.com/convictional](https://brex.com/convictional/).
