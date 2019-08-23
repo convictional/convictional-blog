@@ -11,7 +11,7 @@ tags: Marketplace
 class: post-template
 author: chris
 ---
-**"We were able to onboard 90 vendors to Convictional, enabling us to successfully sell their products on our marketplace. As ideas have come up for ways to enhance the platform, the Convictional team has been receptive and expeditious in execution."** — Emily Hughes, Head of Growth, The Helm.
+"We were able to onboard 90 vendors to Convictional, enabling us to successfully sell their products on our marketplace. As ideas have come up for ways to enhance the platform, the Convictional team has been receptive and expeditious in execution." — Emily Hughes, Head of Growth, The Helm.
 
 Launching a marketplace from scratch is no easy feat. Tackling an ambitious vision is even more challenging. 
 
@@ -157,4 +157,4 @@ If needed, we can get a vendor onboarded and live in 10 days, though we like to 
 
 A big thank you to our friends at The Helm for participating in this case study. 
 
-To learn more about The Helm, visit their website: https://www.thehelm.co/
+To learn more about The Helm's marketplace, [visit their website](https://shop.thehelm.co/).
