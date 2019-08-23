@@ -31,7 +31,7 @@ And in a matter of months, The Helm has been able to achieve just that.
 
 ![Convictional Marketplace - The Helm](/assets/images/the-helm.gif)
 
-Lindsey Wood, CEO of The Helm, was quoted in Vogue stating, "We’ve created a content and commerce platform that tells the stories of game-changing female founders and offers consumers the ability to shop their products. We believe that every dollar you spend is investing in something, and our hope is that this is one more way people will invest in women.”
+Lindsey Wood, CEO of The Helm, was quoted in [Vogue](https://www.vogue.com/article/the-helm-women-venture-capital-ecommerce-shopping) stating, "We’ve created a content and commerce platform that tells the stories of game-changing female founders and offers consumers the ability to shop their products. We believe that every dollar you spend is investing in something, and our hope is that this is one more way people will invest in women.”
 
 As Lindsey noted, The Helm didn't stop at commerce, either. 
 
@@ -55,9 +55,11 @@ The Helm can partner with a brand and onboard their inventory and product inform
 
 The Helm Shop is proof that vision becomes reality when you combine an innovative business model and a platform and team that's dedicated to making it happen. 
 
-In addition to their launch coverage in Vogue, The Helm has received praise from Forbes and other media outlets for their subsequent marketplace success.
+In addition to their launch coverage in [Vogue](https://www.vogue.com/article/the-helm-women-venture-capital-ecommerce-shopping), The Helm has received praise from [Forbes](https://www.forbes.com/sites/susanprice/2019/08/12/buying-from-women-entrepreneurs-just-got-easier/#1927c20412ab) and other media outlets for their subsequent marketplace success.
 
-The following interview is with Emily Hughes, Head of Growth at The Helm. Emily shares the mission behind The Helm, how the marketplace is a vehicle for achieving it, and why they chose Convictional as their Marketplace Platform to make it all happen. 
+The following interview is with Emily Hughes, Head of Growth at The Helm. 
+
+Emily shares the mission behind The Helm, how the marketplace is a vehicle for achieving it, and why they chose Convictional as their Marketplace Platform to make it all happen. 
 
 
 
