@@ -19,7 +19,7 @@ With Convictional, [The Helm](https://www.thehelm.co/) proved that they can do b
 
 **Business Outcomes**
 
-* 8,000 active SKUs from third-party vendors.
+* 8,000 active SKUs from third-party brands.
 * 90 product vendors onboarded, 110 by end of year.
 * 100% increase in conversion rate on Contextual Commerce vs. affiliate links.
 * Idea to marketplace go-live in 4 months.
