@@ -56,11 +56,7 @@ With this fully-integrated Contextual Commerce experience, The Helm owns the ent
 
 The results of Contextual Commerce are staggering. 
 
-> The Helm is experiencing a 
->
-> **100% increase**
->
->  in conversion rate on their integrated shopping modules relative to traditional affiliate links. 
+> The Helm is experiencing a **100% increase** in conversion rate on their integrated shopping modules relative to traditional affiliate links. 
 
 Unlike traditional affiliate links where the publisher loses the reader and doesn't control the checkout experience, The Helm converts the reader to a customer on-site. Since they own the data as a result of the checkout being completed with them and not on a third-party site, The Helm can bring back the customer for repeat purchases when they add new products and promotions. 
 
