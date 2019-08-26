@@ -17,6 +17,13 @@ Launching a marketplace from scratch is no easy feat. Tackling an ambitious visi
 
 With Convictional, [The Helm](https://www.thehelm.co/) proved that they can do both in record time. 
 
+**Business Outcomes**
+
+* 8,000 active SKUs from third-party vendors.
+* 90 product vendors onboarded, 110 by end of year.
+* 100% increase in conversion rate on Contextual Commerce vs. affiliate links.
+* Idea to marketplace go-live in 4 months.
+
 This is their story. 
 
 **Background**
@@ -33,7 +40,7 @@ And in a matter of months, The Helm has been able to achieve just that.
 
 Lindsey Wood, CEO of The Helm, was quoted in [Vogue](https://www.vogue.com/article/the-helm-women-venture-capital-ecommerce-shopping) stating, "We’ve created a content and commerce platform that tells the stories of game-changing female founders and offers consumers the ability to shop their products. We believe that every dollar you spend is investing in something, and our hope is that this is one more way people will invest in women.”
 
-**Content Commerce**
+**Contextual Commerce**
 
 As Lindsey noted, The Helm didn't stop at commerce. 
 
@@ -45,7 +52,15 @@ Now, The Helm can share integrated products from their marketplace into their ed
 
 ![Convictional Marketplace - The Helm - Content Commerce 2](/assets/images/the-helm-case-study-5.png)
 
-With this fully-integrated Content Commerce experience, The Helm owns the entire purchasing experience. From product discovery to checkout. 
+With this fully-integrated Contextual Commerce experience, The Helm owns the entire purchasing experience. From product discovery to checkout. 
+
+The results of Contextual Commerce are staggering. 
+
+> The Helm is experiencing a 
+>
+> **100% increase**
+>
+>  in conversion rate on their integrated shopping modules relative to traditional affiliate links. 
 
 Unlike traditional affiliate links where the publisher loses the reader and doesn't control the checkout experience, The Helm converts the reader to a customer on-site. Since they own the data as a result of the checkout being completed with them and not on a third-party site, The Helm can bring back the customer for repeat purchases when they add new products and promotions. 
 
@@ -62,8 +77,6 @@ The Helm can partner with a brand and onboard their inventory and product inform
 The Helm Shop is proof that vision becomes reality when you combine an innovative business model and a platform and team that's dedicated to making it happen. 
 
 In addition to their launch coverage in [Vogue](https://www.vogue.com/article/the-helm-women-venture-capital-ecommerce-shopping), The Helm has received praise from [Forbes](https://www.forbes.com/sites/susanprice/2019/08/12/buying-from-women-entrepreneurs-just-got-easier/#1927c20412ab) and other media outlets for their subsequent marketplace success.
-
-
 
 To tell us more, we sat down with Emily Hughes, Head of Growth at The Helm. 
 
@@ -83,7 +96,7 @@ We launched a year-long fund in 2017 that invested nearly $1.5 million in 11 inc
 
 The average consumer can’t invest a five- or six-figure check into a venture fund to support female-founded businesses, but they’re able to contribute by spending purposefully. 
 
-A 2014 study from Walmart found that 90% of female shoppers said they would go out of their way to buy a product marked as women-owned. The Helm becomes consumers go-to source for investing in women, both through venture capital and retail spend. Our shop is accompanied by an editorial platform that contextualizes our commerce offering and tells the stories of female-founders, offering readers multiple ways to support them.
+A 2014 study from Walmart found that 90% of female shoppers said they would go out of their way to buy a product marked as women-owned. The Helm becomes consumers' go-to source for investing in women, both through venture capital and retail spend. Our shop is accompanied by an editorial platform that contextualizes our commerce offering and tells the stories of female-founders, offering readers multiple ways to support them.
 
 **The Helm is a platform due to its investment fund, commerce marketplace, and content applications. What is the long-term vision for The Helm Shop?** 
 
@@ -157,7 +170,7 @@ Around 8,000!
 
 **How quickly can you now onboard a vendor once they've agreed to work with you?** 
 
-If needed, we can get a vendor onboarded and live in 10 days, though we like to buffer about a month given the many moving pieces of our business. The Helm shoulders the vast majority of the on-boarding work. Any vendor on Shopify, WooCommerce, BigCommerce (or another platform that syncs with Convictional) will only need to dedicate 30 minutes to the process.
+If needed, we can get a vendor onboarded and live in 10 days, though we like to buffer about a month given the many moving pieces of our business. The Helm's platform shoulders the vast majority of the on-boarding work for vendors. Any vendor on Shopify, WooCommerce, BigCommerce (or another platform that syncs with Convictional) will only need to dedicate 30 minutes to the process.
 
 A big thank you to our friends at The Helm for participating in this case study. 
 
