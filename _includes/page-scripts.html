@@ -1,22 +1,6 @@
-<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/4004130.js"></script>
 <script>
 $(function() {
     var $postContent = $(".post-full-content");
     $postContent.fitVids();
 });
-if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
-        if (!user) {
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
-          });
-        }
-    });
-}
-var links = document.links;
-for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-       links[i].target = '_blank';
-   } 
-}
 </script>
