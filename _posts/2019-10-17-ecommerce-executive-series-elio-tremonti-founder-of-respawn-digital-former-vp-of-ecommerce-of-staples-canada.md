@@ -15,7 +15,7 @@ Ecommerce Executive Interview Series - Elio Tremonti, Founder of Respawn Digital
 
 ![Elio Tremonti - Convictional](/assets/images/elio-headshot.jpeg)
 
-Convictional frequently speaks to ecommerce executives to share their hard-fought learning and experiences in executing their ecommerce strategies. 
+Convictional frequently speaks with ecommerce executives to learn about their hard-fought successes and experiences in executing large-scale ecommerce strategies. 
 
 Today, I had the pleasure of sitting down with a Canadian ecommerce leader and pioneer, [Elio Tremonti](https://www.linkedin.com/in/elio-tremonti-6a910916/). Elio brings over twenty years of retail experience to this discussion. In our conversation, we discuss how he led one of Canada’s largest online and omni-channel retailers and built an online dropship program that grew to $100 million in annual revenue. 
 
