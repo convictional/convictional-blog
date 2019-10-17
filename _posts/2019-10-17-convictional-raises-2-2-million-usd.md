@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/online-retailers-convictional-betakit.png
+cover: /assets/images/platform-betakit.png
 navigation: 'True'
 title: Convictional Raises $2.2 Million USD
 date: 2019-10-08T21:07:15.977Z
