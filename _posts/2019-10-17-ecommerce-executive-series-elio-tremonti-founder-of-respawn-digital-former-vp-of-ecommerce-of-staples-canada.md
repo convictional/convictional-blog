@@ -4,14 +4,14 @@ current: post
 cover: /assets/images/convictional-blog.jpg
 navigation: 'True'
 title: >-
-  Ecommerce Executive Series - Elio Tremonti, Founder of Respawn Digital &
+  Ecommerce Leadership Series - Elio Tremonti, Founder of Respawn Digital &
   Former VP of Ecommerce of Staples Canada
 date: 2019-10-17T20:02:09.328Z
 tags: dropship automation
 class: post-template
 author: chris
 ---
-Ecommerce Executive Interview Series - Elio Tremonti, Founder of Respawn Digital, Former VP of Ecommerce of Staples Canada
+Ecommerce Leadership Series - Elio Tremonti, Founder of Respawn Digital, Former VP of Ecommerce of Staples Canada
 
 ![Elio Tremonti - Convictional](/assets/images/elio-headshot.jpeg)
 
