@@ -5,7 +5,7 @@ language: 'en-us'
 url: "https://blog.convictional.com"
 baseurl: /
 title: Convictional Blog
-description: Convictional is the easiest way for suppliers to accept & automate B2B orders from any trading partner. Our blog covers B2B, EDI, integration, drop shipping and more.
+description: Convictional - The First B2B Trade Enablement Network
 cover: assets/images/hero.png
 logo: https://cdn.convictional.com/public/assets/img/favicon.ico
 logo_dark: https://cdn.convictional.com/public/assets/img/favicon.ico
