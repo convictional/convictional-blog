@@ -16,15 +16,19 @@ In a time of rapid e-commerce innovation, enterprise aggregators are addressing 
 
 Ingram Micro has 200,000 customers, including offline and online retailers, in 160 countries worldwide. Initially, Convictional’s partnership with Ingram Micro will enable sellers to sell into Ingram Micro’s Canadian channel. “Ingram Micro's partnership with Convictional allows vendors to instantly connect to thousands of reseller partners through a modern vendor enablement platform, said Anthony Karim, VP, Vendor Management, Ingram Micro. “Vendors expect a seamless and rapid onboarding experience. We are proud to deliver that through our partnership.” The Ingram Micro partnership extends to sellers operating within many categories, including consumer electronics, cloud, IoT, fashion, furniture, wellness, and many more. 
 
-Sellers interested in participating and selling into thousands of new B2B customers through a single channel are encouraged to join the [Convictional Seller Network](https://app.convictional.com/signup?reCompanyId=ingrammicro-com). If you are interested in participating in the Ingram Micro program, you can also contact ingram@convictional.com to receive more details. 
+Sellers interested in participating are encouraged to join the [Convictional Seller Network](https://app.convictional.com/signup?reCompanyId=ingrammicro-com). If you are interested in participating in the Ingram Micro program, you can contact ingram@convictional.com to receive more details. 
 
-Qualifying businesses will be connected with Ingram, and within 48 hours of onboarding, gain immediate access to thousands of new B2B customers to help you grow.
+Qualifying businesses will be connected with Ingram, and within 48 hours of onboarding, gain immediate access to thousands of new B2B customers.
 
 
 **Ingram Micro Inc.**
 
-Ingram Micro helps businesses Realize the Promise of Technology™. It delivers a full spectrum of global technology and supply chain services to businesses around the world. Deep expertise in technology solutions, mobility, cloud, and supply chain solutions enables its business partners to operate efficiently and successfully in the markets they serve. Unrivalled agility, deep market insights and the trust and dependability that come from decades of proven relationships set Ingram Micro apart and ahead. More at [www.ingrammicro.com](https://www.ingrammicro.com)
+Ingram Micro helps businesses Realize the Promise of Technology™. It delivers a full spectrum of global technology and supply chain services to businesses around the world. Deep expertise in technology solutions, mobility, cloud, and supply chain solutions enables its business partners to operate efficiently and successfully in the markets they serve. Unrivalled agility, deep market insights and the trust and dependability that come from decades of proven relationships set Ingram Micro apart and ahead.
+
+More at [www.ingrammicro.com](https://www.ingrammicro.com)
 
 **Convictional, Inc.**
 
-Convictional is the provider of B2B trade enablement solutions and services to hundreds of companies across North America. Convictional works with distributors, retailers, and marketplaces to enable them source, onboard and integrate with third-party sellers. More at [convictional.com](https://convictional.com)
+Convictional is the provider of B2B trade enablement solutions and services to hundreds of companies across North America. Convictional works with distributors, retailers, and marketplaces to help them onboard and integrate with vendors.
+
+More at [convictional.com](https://convictional.com)
