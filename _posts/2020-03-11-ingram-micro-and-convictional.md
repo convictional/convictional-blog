@@ -22,7 +22,9 @@ Qualifying businesses will be connected with Ingram, and within 48 hours of onbo
 
 
 Ingram Micro Inc.
+
 Ingram Micro helps businesses Realize the Promise of Technology™. It delivers a full spectrum of global technology and supply chain services to businesses around the world. Deep expertise in technology solutions, mobility, cloud, and supply chain solutions enables its business partners to operate efficiently and successfully in the markets they serve. Unrivalled agility, deep market insights and the trust and dependability that come from decades of proven relationships set Ingram Micro apart and ahead. More at [www.ingrammicro.com](https://www.ingrammicro.com)
 
-Convictional, Inc. 
+Convictional, Inc.
+
 Convictional is the provider of B2B trade enablement solutions and services to hundreds of companies across North America. Convictional works with distributors, retailers, and marketplaces to enable them source, onboard and integrate with third-party sellers. More at [convictional.com](https://convictional.com)
