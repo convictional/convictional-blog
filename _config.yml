@@ -6,9 +6,9 @@ url: "https://blog.convictional.com"
 baseurl: https://blog.convictional.com/
 title: Convictional Blog
 description: Convictional - The First B2B Trade Enablement Network
-cover: https://blog.convictional.com/assets/images/hero.png
-logo: https://blog.convictional.com/assets/img/logo.png
-logo_dark: https://blog.convictional.com/assets/img/logo.png
+cover: assets/images/hero.png
+logo: assets/img/logo.png
+logo_dark: assets/img/logo.png
 favicon: https://blog.convictional.com/assets/img/logo.png
 production_url: https://blog.convictional.com
 source_url: https://blog.convictional.com
