@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/retailer-dropship.jpg
+cover: /assets/images/retailer-dropship.jpeg
 navigation: true
 title: Retailer's Guide to Dropship
 date: 2020-05-01T09:00:00.000Z
