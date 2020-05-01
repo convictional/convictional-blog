@@ -10,8 +10,6 @@ tags:
 class: post-template
 author: kyle
 ---
-## The Retailer’s Guide to Dropship
-
 The landscape of modern retail is undergoing a second shift. Retailers around the world have moved from “why would I dropship?” to “how quickly can I get started?”
 
 This article provides a brief overview of dropshipping, its advantages and disadvantages, and strategies to ensure your dropshipping program is successful from day one. 
@@ -36,7 +34,7 @@ The continued expansion of ecommerce has prompted many retailers to ask about th
 Below is a summary of the advantages and disadvantages for retailers looking to implement or grow their own dropship program. 
 
 
-### What Are The Advantages?
+## What Are The Advantages?
 
 There are 8 powerful advantages to launching a dropship program: 
 
@@ -99,7 +97,7 @@ The brilliance of dropship is found in the increases to customer lifetime value.
 When retailers leverage their trusted relationships with customers, they become the go-to source for recommendations and discovery, which spurs repeat purchases and even customer referrals. 
 
 
-### How To Manage The Downsides?
+## How To Manage The Downsides?
 
 There are a few common downsides to running a dropship program. However, there are also solutions used to mitigate the risk involved:
 
@@ -155,3 +153,42 @@ When considering strategy, determine whether the dropship program will become th
 Given the ease of entry, dropship also affords the opportunity to experiment — will the program be launched under the existing brand or used to experiment in targeting a new customer persona under a sub-brand? 
 
 The other core component is the success metrics that are measured. Most often, Gross Merchandise Value (GMV) is used to determine the size (and success) of a dropship program.
+
+
+
+2. Suppliers
+
+After clarifying the purpose that the program is intended to fulfill, focus should turn towards the types of suppliers and products being offered within the dropship channel. A strong alignment between a retailer’s curation and a customer's desires leads to higher customer satisfaction and repeat purchases.
+
+Suppliers are best sourced through a customer-centric lens. Starting from the perspective of the ideal customer’s preferences and working backwards towards the types of products and brands they want to discover allows retailers to ensure they are curating for the right set of needs.
+
+Lastly, suppliers come in all shapes and sizes. Some are new to dropship while others are experts. Being able to screen and onboard these suppliers with ease is crucial to success.
+
+
+
+3. Platform
+
+After setting a vision and confirming the catalogue of suppliers most aligned to customers’ needs, the correct platform needs to be invested into. There are two primary investments to be made when building out the dropship platform: customer-facing and supplier-enabling.
+
+To ensure a smooth customer journey, retailers look to a modern ecommerce platform with the functionality needed for discovery and checkout, such as Magento, WooCommerce, and of course, Shopify.
+
+To ensure a smooth onboarding journey for suppliers, retailers look to a modern B2B integration platform to source, onboard, integrate, and manage their relationships. Convictional enables retailers to accomplish these goals. 
+
+
+
+4. Team
+
+When all of the pieces (vision, suppliers, platform) are in place, the final decisions to confirm are the talent required on the retailer’s side. 
+
+Successful dropship programs have an individual or team specifically tasked to the management of the platform and suppliers, that of an [Ecommerce Manager](https://blog.convictional.com/why-multi-vendor-marketplaces-need-an-ecommerce-manager). 
+
+In addition, there is often a more senior executive who champions the project and leads the strategic projects of new markets to enter and new means of differentiating within the industry. 
+
+
+## How To Get Started
+
+Successful dropship programs arise when talented retail teams invest in the tools and processes that lead to success. 
+
+Teams who have effectively managed short timelines to launch while managing rapidly [vendor onboarding](https://blog.convictional.com/case-study-how-the-helm-used-convictional-to-onboard-90-vendors-8000-skus-to-their-marketplace) and drive a short path to GMV are those who are able to remain effective in an ever-changing ecommerce environment. 
+
+For advice on how to launch or scale a successful dropship program, get in touch with a [Convictional ecommerce expert](mailto:sales@convictional.com) today.
