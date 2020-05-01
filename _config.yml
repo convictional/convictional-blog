@@ -14,7 +14,7 @@ production_url: https://blog.convictional.com
 source_url: https://blog.convictional.com
 navigation: True
 subscribers: True
-google_analytics: UA-109651638-6 # replace with your GA tracking identifier
+google_analytics: UA-109651638-6
 permalink: /:title
 plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
 feed:
