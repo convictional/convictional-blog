@@ -14,3 +14,11 @@ chris:
   bio: Co-founder & COO
   picture: assets/images/chrisgrouchy.jpg
   cover: False
+kyle:
+  username: kyle
+  name: Kyle Tymoszewicz
+  url_full: https://convictional.com/about
+  url: convictional.com/about
+  bio: Customer Success Manager
+  picture: assets/images/kyletymo.jpg
+  cover: False
