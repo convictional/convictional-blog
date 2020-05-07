@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/password.png
+cover: /assets/images/pass.png
 navigation: true
 title: Passwordless B2B
 date: 2020-05-07T09:00:00.000Z
