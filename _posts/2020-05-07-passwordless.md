@@ -10,7 +10,7 @@ tags:
 class: post-template
 author: chris
 ---
-Today, we are proud to be launching Passwordless for all Convictional customers and users. 
+Today, on world password day, we are proud to be launching passwordless login for all Convictional customers and users. 
 
 Passwordless is the fastest way to login to your Convictional account. As the name implies, Passwordless means that you do not have to enter in your password in order to access your Convictional account. And if you are a customer of Convictional, you can offer Passwordless to your B2B partners as an effortless way for them to manage their account, too. 
 
