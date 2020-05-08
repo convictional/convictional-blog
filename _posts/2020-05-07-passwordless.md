@@ -12,6 +12,8 @@ Today, on world password day, we are proud to be launching passwordless login fo
 
 Passwordless is the fastest way to login to your Convictional account. As the name implies, Passwordless means that you do not have to enter in your password in order to access your Convictional account. And if you are a customer of Convictional, you can offer Passwordless to your B2B partners as an effortless way for them to manage their account, too. 
 
+![Passwordless Demo](https://blog.convictional.com/assets/images/passwordless.gif)
+
 Since the founding of Convictional in 2017, we have aimed to introduce more automation to buyers and sellers in our network. As a retailer, reordering inventory or doing drop ship with your suppliers may require memorizing multiple logins for each of your supplier portals. Convictional provides a unified login for all of a retailer’s supplier relationships and enables them to access their account securely and seamlessly—all without a password. It’s like magic. 
 
 Passwordless was one of our most requested features. Buyers and sellers were tired of yet another password to manage for every new partner they onboard. At Convictional, we believe that building the B2B Graph will be achieved by reducing the friction involved in doing B2B trade. Eliminating the need for passwords makes B2B trade on Convictional even easier. 
