@@ -3,7 +3,8 @@ layout: post
 current: post
 cover: /assets/images/hire-an-ecommerce-manager-convictional.jpg
 navigation: 'True'
-title: VP of Merchandising Guide to Seller Enablement: Build or Buy
+title: >-
+   VP of Merchandising Guide to Seller Enablement: Build or Buy
 date: '2020-05-22T08:00:00-00:00'
 tags: Merchandising
 class: post-template
