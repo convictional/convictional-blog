@@ -2,7 +2,7 @@ markdown: kramdown
 highlighter: rouge
 paginate: 10
 language: 'en-us'
-url: "https://blog.convictional.com"
+url: "https://blog.convictional.com/"
 baseurl: /
 title: Convictional Blog
 description: Convictional - The First B2B Trade Enablement Network
