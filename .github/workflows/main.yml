@@ -5,4 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Build Jekyll site.
-      uses: fabacab/jekyll-builder-for-github-pages-action@v1 # Or whatever "@ref" you want.
+    - uses: actions/checkout@v2
+    - uses: helaili/jekyll-action@2.0.1
