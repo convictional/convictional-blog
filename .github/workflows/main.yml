@@ -1,8 +1,15 @@
-name: Jekyll site CI
-on: [push]
+name: Build and deploy Jekyll to Github Pages
+
+on:
+  push:
+    branches:
+      - master
+
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  jekyll:
+    runs-on: ubuntu-16.04
     steps:
-    - name: Build Jekyll site.
-      uses: helaili/jekyll-action@2.0.1
+      - uses: actions/checkout@v2
+      - uses: helaili/jekyll-action@2.0.2
+        env:
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
