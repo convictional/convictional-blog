@@ -110,6 +110,13 @@
         {% include page-scripts.html %}
     {% endif %}
 
+    <script>
+        var JEKYLLPLUS_REPO = 'convictional/convictional-blog/gh-pages'
+        var JEKYLLPLUS_PATH = '{{ page.path }}'
+    </script>
+    <script src='//cms.jekyllplus.com/assets/widget.js'/></script>
+    <link rel='stylesheet' href='//cms.jekyllplus.com/assets/widget.css'/>
+    
     <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
     <!-- ghost_foot -->
 
