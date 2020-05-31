@@ -8,7 +8,7 @@ title: >-
 date: '2020-05-30T08:00:00-00:00'
 tags: marketplace
 class: post-template
-author: roger
+author: chris
 ---
 You bought something from an online marketplace. You were told that your order would arrive at your doorstep within 48 hours. But, strangely, it didn’t. Instead, your order showed up 2 weeks later. Sound familiar? Unfortunately, this kind of negative post-purchase experience is common for most people who have bought something from an online retailer or a digital marketplace. 
 
