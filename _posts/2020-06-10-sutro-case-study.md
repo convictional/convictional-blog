@@ -16,13 +16,13 @@ One of our first sellers that joined the network was [SUTRO Footwear](https://ww
 
 We sat down (virtually) with Mehran Esmaili and Sanaz Batmanghilich, two of the partners at SUTRO, to talk about their experience in using Convictional and how they have been helping retailers de-risk their businesses through drop ship automation. 
 
-**Tell me about the founding story behind SUTRO. **
+**Tell me about the founding story behind SUTRO.**
 
 The idea of SUTRO was a community developed brand by direct design input of fashion conscious, environmentally conscious, tech employees of Twitter, Salesforce and Facebook. 
 
 Our community was looking for: handcrafted, hand stitched, good-year-welted boots, utilizing all naturally tanned leather, hand polished with natural coloring and beeswax. We developed a collection of handmade boots with the lowest carbon footprint of any brand then and now. Focus of SUTRO has shifted from traditional Brick & Mortar retail to a Direct-to-Consumer (DTC) brand.
 
-**What will retail look like post-COVID-19? **
+**What will retail look like post-COVID-19?**
 
 Traditional retail was in a survival mode prior to the pandemic. The universal reasons for their survival mode are: high cost of commercial spaces, high cost of employee health care, payroll tax, minimum wage, and the strength of Amazon significantly. All of these factors reduced the net margin for retailers. The options for retailers are to move online, reduce inventory risk, and expand their assortment of products. 
 
@@ -48,11 +48,11 @@ SUTRO has leveraged Convictional to:
 4. Eliminate the need for legacy EDI and clunky software.
 5. Give us the flexibility and freedom to onboard any retail partner for online reselling.
 
-**Let’s talk about drop ship for a moment. Before Convictional, what parts of drop ship were challenging for you as a brand selling to retailers? **
+**Let’s talk about drop ship for a moment. Before Convictional, what parts of drop ship were challenging for you as a brand selling to retailers?**
 
 Wholesale has the inherent risks of not getting paid, dealing with returns of unsold inventory, and loss of revenue due to non-payment or return of broken seasonal styles. In addition, net pay of 30 to 60 days requires the wholesaler to carry the cost of production up to 10 months (from start of production to collection) for a relatively low margin of profit. Before B2B drop ship automation technology like Convictional, there were no good options for doing B2B. 
 
-**How did Convictional solve those challenges for SUTRO? **
+**How did Convictional solve those challenges for SUTRO?**
 
 The benefits of Convictional’s platform has many dimensions: 
 
@@ -64,7 +64,7 @@ The benefits of Convictional’s platform has many dimensions:
 
 Drop ship platforms will be more relevant than ever post-COVID-19. Since fewer independent stores will reopen, many will not be financially capable of taking on new or deeper selection of products from their brand partners if they continue to purchase inventory through wholesale agreements. 
 
-**What advice do you have for retailers and marketplaces who are thinking about their go-forward strategy? **
+**What advice do you have for retailers and marketplaces who are thinking about their go-forward strategy?**
 
 Convert to Shopify, re-think and re-strategize your digital and social media marketing channels, and take on as many high quality brands as possible with drop ship options using Convictional’s B2B trade enablement platform.
 
