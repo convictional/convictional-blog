@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/convictional-seller-enablement-b2b-dropship.png
+cover: assets/images/seller-enablement-convictional.png
 navigation: 'True'
 title: >-
    B2B Trade Enablement Series: What is Seller Enablement? 
@@ -44,13 +44,13 @@ One of the first questions we get asked by buyers when introducing the Modern Se
 
 The purpose of this post is to explain the key differences between Modern and Classic Sellers. 
 
-**Classic Sellers: **
+**Classic Sellers:**
 
 A Classic Seller is a brand or manufacturer that uses a custom or enterprise ERP (on-premises or cloud version) to manage purchase orders, inventory, and invoicing for buyers. Other B2B trade elements like product information may be unbundled from the ERP. Their preferred trading partner integration methods include EDI and/or CSV via SFTP. Classic Sellers typically have an EDI Manager who manages incoming B2B transactions. They often work with large buyers due to the investment required in onboarding or maintaining a B2B relationship. Classic Sellers usually provide legitimacy to a buyer’s assortment, but tend to appeal to customers on the basis of price due to the commoditized nature of their distribution. Purchase intent is driven by price and loyalty to a distribution channel, not necessarily discoverability. Classic Sellers are accustomed to going through B2B partners for wider distribution. In many cases, selling directly to the end customer may not exist or it represents a small percentage of total revenue.
 
 Example: Calvin Klein. 
 
-**Modern Sellers: **
+**Modern Sellers:**
 
 A Modern Seller is a brand or manufacturer that uses modern cloud-based systems to run their business with the purposes of selling directly to consumers. Examples of common systems include Shopify, Shopify Plus, and Salesforce Commerce Cloud. They may use an ERP system like NetSuite, but it tends to be connected to a customer-facing system, usually a modern ecommerce platform. Modern Sellers prefer API based integrations and connectors and typically lack experience in EDI. Any prior experience with EDI is usually the result of using web forms resulting in manual inventory updates, data entry from POs, and manual invoicing. B2B relationships are usually managed by an Ecommerce Manager or Marketplace Manager. Interestingly, Modern Sellers start out by selling directly to customers (DTC), choosing to bypass resellers or channel partners altogether. Once Modern Sellers reach a certain threshold of sales, they turn to B2B channels in order to continue growing profitably. 
 
