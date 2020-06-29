@@ -47,7 +47,11 @@ _Percentage Pricing_
 
 To establish percentage-based pricing, the seller could first create a price list applying a 25% discount off retail (the retail margin) and apply it to their entire product catalogue. 
 
+![Margin1](/assets/images/margin1.png)
+
 On a per-product basis, this would then appear as such: 
+
+![Margin2](/assets/images/margin2.png)
 
 Here we see that the base price is 75% of the total retail price and the markup amount is 25%. Carrying the math across, the seller would earn a $1.50 wholesale margin and the buyer would earn a $0.50 retail margin. 
 
@@ -55,7 +59,11 @@ _Fixed-rate Pricing_
 
 To establish fixed-rate pricing, the seller could first create a price list applying a $10 discount off retail (the retail margin) and apply it to their entire product catalogue. 
 
+![Margin3](/assets/images/margin3.png)
+
 On a per-product basis, this would then appear as such: 
+
+![Margin4](/assets/images/margin4.png)
 
 Here we see that the base price is $20 (66% of the total retail price and the markup amount is $10 (33%). Carrying the math across, the seller would earn a $20 wholesale margin and the buyer would earn a $10 retail margin for a total retail price of $30. 
 
