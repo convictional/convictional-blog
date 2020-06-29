@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/pitching-sellers.png
+cover: assets/images/seller-pitch.png
 navigation: 'True'
 title: >-
    Marketplace Series: Pitching Sellers
