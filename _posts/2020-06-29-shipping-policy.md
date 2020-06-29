@@ -43,25 +43,14 @@ _Below are sample legal terms that can be used as a template for your own contra
 
 _Below is a sample shipping policy that can be used as a template for your own policies:_
 
-We offer Free Shipping for all orders over $x and a flat rate of $x for all orders under $x in (geo)
 
-**Tracking your order**
-
-When your order is shipped you will receive an order confirmation with a tracking number. If you don’t receive this email, please check your spam or junk folder. If you still haven’t received it, please email us at customer service and we’ll send it to you again right away.
-
-Please note that if your order contains multiple items, they may arrive in separate packages. Products on our site may be shipped directly from our merchant community.
-
-Based on the shipping method offered by our merchants your order will be shipped by Canada Post, USPS, UPS, DHL, FedEx, CanPar etc. You will receive a tracking number with every order so you will always be aware of which carrier is delivering your package. 
-
-**Shipping times**
-
-Most of the items on [Retailer Name] ship between 1-3 business days. Some items are made by our merchants just for you so may take a little longer (believe us, it is worth the wait!). If you need an item to arrive at a certain time, please email us at customer service and we will see what we can do.
-
-Based on the shipping method used by the merchants on our platform shipping can take anywhere from 3-10 business days. For more questions regarding shipping times or methods please take a look at the ‘Shipping Tab’ located on each product page. This will indicate the approximate amount of time it will take for your order to arrive. 
-
-**International orders**
-
-International orders are subject to shipping charges depending on the shipping address. If you have questions about this in advance, please email us at customer service.
+*   We offer free shipping for all orders over $x and a flat rate of $x for shipping on all orders under $x in (geo)
+*   Order confirmations will include a tracking number. If you do not receive this confirmation email, please check your spam or junk folder. If you still have not received it, please email customer service (address) and we will send it to you shortly.
+*   Please note that order containing multiple items may arrive in separate packages. Products on our site may be shipped directly from the vendor. 
+*   Based on the shipping method offered by our partners your order will be shipped by Canada Post, USPS, UPS, DHL, FedEx, CanPar etc. You will receive a tracking number with every order so you will always be aware of which carrier is delivering your package.
+*   Most of our partners ship between X-Y business days. Some custom or handmade items may be subject to longer shipping times. If you need an item to arrive at a certain time, please email us at customer service.
+*   Based on the shipping method used by the merchants on our platform shipping can take anywhere from X-Y business days. This will indicate the approximate amount of time it will take for your order to arrive.
+*   International orders are subject to shipping charges which depend on the shipping address. If you have questions about this in advance, please email customer service.
 
 
 ## Implementation
