@@ -54,6 +54,8 @@ The “WOW Funnel” is a measurement tool used to measure the time it takes bet
 
 A visual of the WOW Funnel is below:
 
+![WOW Funnel](/assets/images/wow-funnel.png)
+
 The steps “Top-of-Funnel”, “Interested”, and “Engaged” refer to the process of pitching sellers on your opportunity. For advice on optimizing this part of the funnel, see our article **Seller Pitch Decks**. 
 
 The steps “Committed”, “Onboarding”, and “WOW” all involve the actual steps to connect with your platform via Convictional and direct traffic towards the seller’s products. 
