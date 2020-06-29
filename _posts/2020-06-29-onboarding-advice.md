@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/onboarding-advice.png
+cover: assets/images/seller-onboarding.png
 navigation: 'True'
 title: >-
    Marketplace Series: Onboarding Advice
