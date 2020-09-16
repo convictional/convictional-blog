@@ -1,4 +1,5 @@
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/4004130.js"></script>
+<script src="https://cdn.lr-ingest.io/LogRocket.min.js" crossorigin="anonymous"></script>
 <script>
 if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
@@ -13,6 +14,30 @@ var links = document.links;
 for (var i = 0, linksLength = links.length; i < linksLength; i++) {
    if (links[i].hostname != window.location.hostname) {
        links[i].target = '_blank';
-   } 
+   }
 }
+
+try {
+  console.log('Setting analytics...')
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  window.LogRocket && window.LogRocket.init('cpp3xe/convictionalblog')
+
+  const userId = getCookie('userId')
+  const email = getCookie('email')
+  if (email && userId && window.LogRocket) {
+    window.LogRocket.identify(userId, {
+      email: email,
+    })
+  } else if (window.LogRocket) {
+    console.log('User not set.')
+  }
+}  catch (error) {
+  console.error('error', error)
+}
+
 </script>
