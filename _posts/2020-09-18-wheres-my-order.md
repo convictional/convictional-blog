@@ -73,7 +73,7 @@ It’s the age-old merchandising problem: A customer buys an item in good faith 
 
 Whether they market themselves as inventory management software or a marketplace solution, the truth is, most B2B companies focus only on solving one half of the problem: either the merchandiser or seller side. Simply put, this approach makes it clunky and difficult for a seller and a buyer’s system to communicate, not to mention the technological challenges that EDI poses.
 
-At Convictional, this is one of the biggest problems we’re setting out to solve with technology.** Our technology is aimed specifically at preventing overselling in the first place. **We want you to know exactly how much inventory you have at any point in time and significantly reduce your customer service phone calls and merchandising costs.**
+At Convictional, this is one of the biggest problems we’re setting out to solve with technology. Our technology is aimed specifically at preventing overselling in the first place. **We want you to know exactly how much inventory you have at any point in time and significantly reduce your customer service phone calls and merchandising costs.**
 
 Here’s our secret: Best-in-class [seller enablement](https://blog.convictional.com/what-is-seller-enablement-convictional) is baked into our product. **We value your relationship with your sellers as much as you do.** Once you connect your systems to Convictional, we make it dead-easy for your vendors to come on board, too. All you have to do is click a box and send them an email to get set up. 
 
