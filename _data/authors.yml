@@ -22,3 +22,11 @@ kyle:
   bio: Customer Success Manager
   picture: assets/images/kyletymo.jpeg
   cover: False
+roxine:
+  username: roxine
+  name: Roxine Kee
+  url_full: https://convictional.com/about
+  url: convictional.com/about
+  bio: Growth Engineer
+  picture: assets/images/roxinekee.jpg
+  cover: False
