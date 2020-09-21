@@ -9,7 +9,7 @@ tags:
 class: post-template
 author: elio
 ---
-The biggest headache for companies who lose money with their ecommerce sites is overselling inventory. But how much does It cost your business in terms of people hours, customer dissatisfaction, and time wasted?
+The biggest headache for companies who lose money with their ecommerce sites is overselling inventory. But how much does it cost your business in terms of people hours, customer dissatisfaction, and time wasted?
 
 **Let’s do a simple scenario. **
 
@@ -19,35 +19,33 @@ But if you’re reading this, then you probably sell closer to 100,000 orders a 
 
 This doesn’t take into consideration..
 
-
-
 *   Customer dissatisfaction
 *   Lower customer lifetime values and repeat purchases
 *   Higher customer acquisition costs
 
-Most merchandisers, VPs of ecommerce, and dropshippers never learn how to solve this problem. They either get the IT team to hack together a workaround or relegate the fires to the customer service team. Some of them might have given up trying to optimize their ecommerce sites and have written off these costs.
+Most merchandisers, VPs of ecommerce, and dropshippers either get the IT team to hack together a workaround or relegate the fires to the customer service team. Some of them might have given up trying to optimize their ecommerce sites and have written off these costs.
 
-Here’s what most of your peers in the industry don’t know: The root problem isn’t your visible website. The problem is in the legacy technology that’s holding you back from successful, stress-free sales.
+The root problem isn’t your visible website. The problem is in the legacy technology that’s holding you back from successful, stress-free sales.
 
 In this article we’ll dig into how legacy technology and processes affect your inventory management. We’ll also talk about reliable and scalable solutions so you’ll never over-promise and under-deliver ever again. 
 
 
-## Your systems don’t sync fast enough
+## Your Systems Don’t Sync Fast Enough
 
 For the growing demands of ecommerce, your inventory system needs to be in continuous sync with your suppliers’ or vendors’ systems. Otherwise you risk selling inventory that you never had in the first place, and having to go back to your customer and tell them you can’t fulfill their order.
 
-For example, let’s say you’re out of stock of a popular office chair you sell. Let’s say you get three dented returns back, your system does its daily sync, so now your inventory shows you have 3 available pieces. A visitor on your site orders it and the vendor receives the order. The vendor goes to the warehouse to pick it up, but only there’s no more stock. The vendor cancels your order. 
+For example, let’s say you’re out of stock of a popular office chair you sell. If you get three dented returns back and your system does its daily sync, so now your inventory shows you have 3 available pieces. A visitor on your site orders it and the vendor receives the order. The vendor goes to the warehouse to pick it up, but only there’s no more stock. The vendor cancels your order. 
 
 Four days later, the customer calls your customer service team to ask, “Where’s my order?” Your team calls the supplier, only then do they find out that the supplier had cancelled the order because of the damaged stock that you shouldn’t have sold in the first place.
 
-Remember the math we did in the beginning? On top of sales lost, intermittent inventory syncing costs you and your team a conservative estimate of 1% of your monthly sales. 
+On top of sales lost, intermittent inventory syncing costs you and your team a conservative estimate of 1% of your monthly sales. 
 
 Depending on your sales, that can be over $1,000,000 in expenses that should be going to your bottom line.
 
 And that’s all from one synchronization. This doesn’t even factor in the actual people hours you spend trying to correct multiple inconsistencies with your vendor across both of your systems (if it’s even worth trying to correct). You need systems that continuously coordinate your inventory levels with your vendors’ as supply and demand levels change.
 
 
-## An employee made a mistake
+## An Employee Made a Mistake
 
 Even with the current technology you have in place, there are still some parts of your system that are done manually. Maybe you have a junior person who uploads data every day. Maybe one of your staff counts inventory while another updates Excel. 
 
