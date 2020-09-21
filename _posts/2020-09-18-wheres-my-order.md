@@ -1,6 +1,7 @@
 ---
 layout: post
 current: post
+cover: assets/images/clark-street-mercantile-P3pI6xzovu0-unsplash.jpg
 navigation: 'True'
 title: >-
    “Where’s My Order?”: Why Stores Oversell Their Inventory (and What It Costs You)
