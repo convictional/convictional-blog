@@ -11,7 +11,7 @@ author: elio
 ---
 The biggest headache for companies who lose money with their ecommerce sites is overselling inventory. But how much does it cost your business in terms of people hours, customer dissatisfaction, and time wasted?
 
-**Let’s do a simple scenario. **
+**Let’s do a simple scenario.**
 
 Let’s say you sell 10,000 orders a month and do $1m in sales. At a 1% problem rate, that’s $10,000 worth of problems. Or 100 phone calls. That’s manageable.
 
@@ -69,14 +69,12 @@ Regardless of the circumstance, you need a system to handle spikes from event, a
 
 It’s the age-old merchandising problem: A customer buys an item in good faith because your website shows that you have plenty of inventory. They go through the checkout process, you and your team get excited at the orders pouring… Until you realize that your inventory never synced from your seller. They’re actually out of stock and you can’t fulfill those orders.
 
-**Even with the advances in ecommerce technology, it’s surprising that this industry-wide problem has yet to be solved. **
+**Even with the advances in ecommerce technology, it’s surprising that this industry-wide problem has yet to be solved.**
 
 Whether they market themselves as inventory management software or a marketplace solution, the truth is, most B2B companies focus only on solving one half of the problem: either the merchandiser or seller side. Simply put, this approach makes it clunky and difficult for a seller and a buyer’s system to communicate, not to mention the technological challenges that EDI poses.
 
-At Convictional, this is one of the biggest problems we’re setting out to solve with technology.** Our technology is aimed specifically at preventing overselling in the first place. **We want you to know exactly how much inventory you have at any point in time and significantly reduce your customer service phone calls and merchandising costs.
+At Convictional, this is one of the biggest problems we’re setting out to solve with technology.** Our technology is aimed specifically at preventing overselling in the first place. **We want you to know exactly how much inventory you have at any point in time and significantly reduce your customer service phone calls and merchandising costs.**
 
 Here’s our secret: Best-in-class [seller enablement](https://blog.convictional.com/what-is-seller-enablement-convictional) is baked into our product. **We value your relationship with your sellers as much as you do.** Once you connect your systems to Convictional, we make it dead-easy for your vendors to come on board, too. All you have to do is click a box and send them an email to get set up. 
-
-[tk insert screenshot of invite popup]
 
 If you’re curious whether or not our product is right for you, schedule a call with us. We’re excited to see how we can help.
